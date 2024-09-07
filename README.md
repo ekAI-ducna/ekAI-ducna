@@ -1,4 +1,4 @@
-![imgs](./future_farming.jpg)
+![imgs](./ai_rs_2.png)
 ### Hi👋 I am Nguyen Anh Duc from VietNam :revolving_hearts:
 
 - 🔭 I’m currently working as AI Software Engineer.
