@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as an AI Software Engineer.
 - 🌱 I’m currently applying Machine Learning for Earth Observation, AI-Based Image Processing, High-Resolution Enhancement. 
 - 👯 I’m looking to collaborate on Business, Education and Research partners.
-- 📫 How to reach me: [anhduc@vgm.ai](anhduc@vgm.ai)
+- 📫 How to reach me: [anhduc@vgm.ai](anhduc@eov.solutions)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Satman :technologist:
 
